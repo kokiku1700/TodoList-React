@@ -27,7 +27,7 @@ h4 {
 }
 
 .search-wrap input {
-    width: 78%;
+    width: 100%;
     border: none;
     border-bottom: 1px solid #bbb;
     font-family: 'SeguSegu';
@@ -37,20 +37,6 @@ h4 {
 .search-wrap input:focus {
     outline: none;
     border-bottom: 1px solid #444;
-}
-
-.search-wrap button {
-    width: 15%;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    font-family: 'SeguSegu';
-    font-size: 30px;
-
-}
-
-.search-wrap button:hover {
-    background-color: #ddd;
 }
 
 .todoItem-wrap {
